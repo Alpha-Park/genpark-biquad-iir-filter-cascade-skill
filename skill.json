@@ -1,0 +1,15 @@
+{
+  "name": "genpark-biquad-iir-filter-cascade-skill",
+  "version": "1.0.0",
+  "description": "Direct Form II Transposed biquad IIR filter cascade executing real-time low-pass audio frequency filtering and resonance shaping.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "iir-filter",
+    "biquad",
+    "audio-dsp",
+    "digital-filters"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
